@@ -55,5 +55,5 @@
    ![Snake animation](https://github.com/brunakarina/brunakarina/blob/output/github-contribution-grid-snake.svg)
    
  <div align="center">
-    <img src="https://gfycat.com/delectablelimpindianpangolin"/>
+    <img src="<iframe src='https://gfycat.com/ifr/DelectableLimpIndianpangolin' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe><p> <a href="https://gfycat.com/delectablelimpindianpangolin">via Gfycat</a></p>"/>
  </div>
