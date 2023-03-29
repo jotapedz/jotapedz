@@ -56,7 +56,7 @@
    
  <div align="center">
     <img
-      src="![DelectableLimpIndianpangolin-max-1mb](https://user-images.githubusercontent.com/126018999/228614813-600437d4-fdc2-43a2-bc99-4dae43e76146.gif)"
+      src="https://user-images.githubusercontent.com/126018999/228614813-600437d4-fdc2-43a2-bc99-4dae43e76146.gif"
     > 
 
  </div>
