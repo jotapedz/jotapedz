@@ -17,11 +17,11 @@
   <a href="https://github.com/jotapedz">
   <img
     height="165em"
-    src="https://github-readme-stats.vercel.app/api?username=brunakarina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=jotapedz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
   />
   <img
     height="165em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunakarina&layout=compact&langs_count=7&theme=dracula"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotapedz&layout=compact&langs_count=7&theme=dracula"
   />
 </div>
 
