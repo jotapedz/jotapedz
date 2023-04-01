@@ -52,7 +52,7 @@
     >
   </a>
  
-   ![Snake animation](https://github.com/jotapedz/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/jotapedz/jotapedz/blob/output/github-contribution-grid-snake.svg)
    
  <div align="center">
     <img
