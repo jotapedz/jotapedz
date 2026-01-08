@@ -5,13 +5,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+i'm+João+Pedro;Be+Welcome!)](https://git.io/typing-svg)
 
-> 💻 Computer Science Student at IFCE
+> 💻 Sistemas e midias digitais na UFC
 
-> 🚀 Explorer Student at Rocketseat
+> 🎓 Tecnico em redes de computadores
 
-> 🎓 Technical Degree in Computer Network
-
-> 🛠 I’m currently learning JS ✔
+> 🛠 Atualmente estou aprendendo Python/Pandas ✔
 
 <div align="center">
   <a href="https://github.com/jotapedz">
